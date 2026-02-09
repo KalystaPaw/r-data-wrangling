@@ -1,6 +1,6 @@
 ---
-title: "P8105 HW2"
-author: 'Yutong Mao (UNI: ym3139)'
+title: "R Data Practice 2"
+author: 'Yutong Mao'
 date: "2025-10-01"
 output: github_document
 ---

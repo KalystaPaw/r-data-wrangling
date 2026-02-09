@@ -1,6 +1,6 @@
-P8105 HW2
+R Data Practice 2
 ================
-Yutong Mao (UNI: ym3139)
+Yutong Mao
 2025-10-01
 
 # Problem 1

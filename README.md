@@ -1,1 +1,5 @@
-# p8105_hw2_ym3139
+# R Data Practice 2
+
+This repository contains R-based data analysis and visualization practice,
+focusing on data cleaning, exploratory analysis, and reproducible reporting
+using R Markdown.
